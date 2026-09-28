@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Linear Layout</string>
+    <string name="tv_header">Rejestracja użytkownika</string>
+    <string name="tv_email">Podaj e-mail:</string>
+    <string name="et_email">ewa@poczta.pl</string>
+    <string name="tv_password">Podaj hasło:</string>
+    <string name="et_password">123456</string>
+    <string name="tv_repeat">Powtórz hasło</string>
+    <string name="et_repeat">123456</string>
+    <string name="btn_accept">ZATWIERDŹ</string>
+    <string name="tv_greet">Witaj, ewa@poczta.pl!</string>
 </resources>
